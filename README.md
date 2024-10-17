@@ -1,131 +1,125 @@
-<a href="https://nicegui.io/#about">
-  <img src="https://raw.githubusercontent.com/zauberzeug/nicegui/main/screenshot.png"
-    width="200" align="right" alt="Try online!" />
+<div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><a href="https://nicegui.io/#about" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/zauberzeug/nicegui/main/screenshot.png" width="200" align="right" alt="在线尝试！" style="max-width: 100%;" _mstalt="144989" _msthash="377">
 </a>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto" _msttexthash="10703069" _msthash="378">NiceGUI 软件</h1><a id="user-content-nicegui" class="anchor" aria-label="永久链接：NiceGUI" href="#nicegui" _mstaria-label="304746" _msthash="379"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="675949144" _msthash="380">NiceGUI 是一个易于使用、基于 Python 的 UI 框架，它显示在您的 Web 浏览器中。
+您可以创建按钮、对话框、Markdown、3D 场景、绘图等等。</p>
+<p dir="auto" _msttexthash="1076981932" _msthash="381">它非常适合微型 Web 应用程序、仪表板、机器人项目、智能家居解决方案和类似用例。
+您还可以在开发中使用它，例如在调整/配置机器学习算法或调整电机控制器时。</p>
+<p dir="auto" _msttexthash="139901736" _msthash="382">NiceGUI 以 <a href="https://pypi.org/project/nicegui/" rel="nofollow" _istranslated="1">PyPI 包</a>、<a href="https://hub.docker.com/r/zauberzeug/nicegui" rel="nofollow" _istranslated="1">Docker 镜像</a>、<a href="https://anaconda.org/conda-forge/nicegui" rel="nofollow" _istranslated="1">conda-forge</a> 和 <a href="https://github.com/zauberzeug/nicegui" _istranslated="1">GitHub</a> 的形式提供。</p>
+<p dir="auto"><a href="https://pypi.org/project/nicegui/" rel="nofollow"><img src="https://camo.githubusercontent.com/b8ec23c894875d3100c8034d666b7f59f4010e1601921ba0b8dcfdab42514e1d/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f6e6963656775693f636f6c6f723d6461726b2d677265656e" alt="PyPI" data-canonical-src="https://img.shields.io/pypi/v/nicegui?color=dark-green" style="max-width: 100%;" _mstalt="38714" _msthash="383"></a>
+<a href="https://pypi.org/project/nicegui/" rel="nofollow"><img src="https://camo.githubusercontent.com/cd16a17e5ab7543b307bed9aaf409352273dabdd1196cf9e35c8a80a85e37406/68747470733a2f2f696d672e736869656c64732e696f2f707970692f646d2f6e6963656775693f636f6c6f723d6461726b2d677265656e" alt="PyPI 下载" data-canonical-src="https://img.shields.io/pypi/dm/nicegui?color=dark-green" style="max-width: 100%;" _mstalt="227851" _msthash="384"></a>
+<a href="https://anaconda.org/conda-forge/nicegui" rel="nofollow"><img src="https://camo.githubusercontent.com/7121c2e4c59e3c5a6c7b1f59de7328fd21e0090b7d8e2a93f2857cfdda7a6baa/68747470733a2f2f696d672e736869656c64732e696f2f636f6e64612f762f636f6e64612d666f7267652f6e6963656775693f636f6c6f723d677265656e266c6162656c3d636f6e64612d666f726765" alt="Conda 版本" data-canonical-src="https://img.shields.io/conda/v/conda-forge/nicegui?color=green&amp;label=conda-forge" style="max-width: 100%;" _mstalt="208143" _msthash="385"></a>
+<a href="https://anaconda.org/conda-forge/nicegui" rel="nofollow"><img src="https://camo.githubusercontent.com/aa3a533bf731cb3eb604cd250fb5d8c17bdbaa4da1c18441fa936ce16adf2264/68747470733a2f2f696d672e736869656c64732e696f2f636f6e64612f646e2f636f6e64612d666f7267652f6e6963656775693f636f6c6f723d677265656e266c6162656c3d646f776e6c6f616473" alt="Conda 下载" data-canonical-src="https://img.shields.io/conda/dn/conda-forge/nicegui?color=green&amp;label=downloads" style="max-width: 100%;" _mstalt="259142" _msthash="386"></a>
+<a href="https://hub.docker.com/r/zauberzeug/nicegui" rel="nofollow"><img src="https://camo.githubusercontent.com/a720dd1233370977e6eda361fb5ef7991fc583a9381763fe4df8d67aa0543aed/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f70756c6c732f7a61756265727a6575672f6e696365677569" alt="Docker 拉取" data-canonical-src="https://img.shields.io/docker/pulls/zauberzeug/nicegui" style="max-width: 100%;" _mstalt="184613" _msthash="387"></a><br>
+<a href="https://github.com/zauberzeug/nicegui/blob/main/LICENSE"><img src="https://camo.githubusercontent.com/56263bdbc75319978d4b5caf43f30c8ee88d550455149d36b3f7d4d00295a55d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f7a61756265727a6575672f6e6963656775693f636f6c6f723d6f72616e6765" alt="GitHub 许可证" data-canonical-src="https://img.shields.io/github/license/zauberzeug/nicegui?color=orange" style="max-width: 100%;" _mstalt="226174" _msthash="388"></a>
+<a href="https://github.com/zauberzeug/nicegui/graphs/commit-activity"><img src="https://camo.githubusercontent.com/6a5d7a38df551348e5c650e6ad5c2d076b15009a93ec91bb88fb7c7d0a8512f5/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6d6d69742d61637469766974792f6d2f7a61756265727a6575672f6e696365677569" alt="GitHub 提交活动" data-canonical-src="https://img.shields.io/github/commit-activity/m/zauberzeug/nicegui" style="max-width: 100%;" _mstalt="461578" _msthash="389"></a>
+<a href="https://github.com/zauberzeug/nicegui/issues"><img src="https://camo.githubusercontent.com/d365ec95194b536ae9143f1f80ac4ee238ac9074ae8abe8e49ebd6017029b198/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f7a61756265727a6575672f6e6963656775693f636f6c6f723d626c7565" alt="GitHub 问题" data-canonical-src="https://img.shields.io/github/issues/zauberzeug/nicegui?color=blue" style="max-width: 100%;" _mstalt="206999" _msthash="390"></a>
+<a href="https://github.com/zauberzeug/nicegui/network"><img src="https://camo.githubusercontent.com/55c39152f492e7fefa6234481d8f178a52df5e655ca45d5d0314c7666df034cd/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f7a61756265727a6575672f6e696365677569" alt="GitHub 分支" data-canonical-src="https://img.shields.io/github/forks/zauberzeug/nicegui" style="max-width: 100%;" _mstalt="179673" _msthash="391"></a>
+<a href="https://github.com/zauberzeug/nicegui/stargazers"><img src="https://camo.githubusercontent.com/1f5555322ee59862c00fa6a1339b15b182938f1f0c88d6130a4c7ff46673a3f6/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f7a61756265727a6575672f6e696365677569" alt="GitHub 星标" data-canonical-src="https://img.shields.io/github/stars/zauberzeug/nicegui" style="max-width: 100%;" _mstalt="180921" _msthash="392"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5209451" _msthash="393">特征</h2><a id="user-content-features" class="anchor" aria-label="永久链接：功能" href="#features" _mstaria-label="370552" _msthash="394"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="54887027" _msthash="395">基于浏览器的图形用户界面</li>
+<li _msttexthash="49730135" _msthash="396">代码更改时隐式重新加载</li>
+<li _msttexthash="279448026" _msthash="397">充当 Web 服务器（由浏览器访问）或处于本机模式（例如桌面窗口）</li>
+<li _msttexthash="209513980" _msthash="398">标准 GUI 元素，如标签、按钮、复选框、开关、滑块、输入、文件上传......</li>
+<li _msttexthash="97086249" _msthash="399">使用行、列、卡片和对话框进行简单分组</li>
+<li _msttexthash="25895506" _msthash="400">通用 HTML 和 Markdown 元素</li>
+<li><font _mstmutation="1" _msttexthash="26590135" _msthash="401">强大的高级元素</font><ul dir="auto">
+<li _msttexthash="35277502" _msthash="402">绘制图形和图表，</li>
+<li _msttexthash="23664459" _msthash="403">渲染 3D 场景，</li>
+<li _msttexthash="60130668" _msthash="404">通过虚拟操纵杆获取转向事件</li>
+<li _msttexthash="21737235" _msthash="405">注释和叠加图像</li>
+<li _msttexthash="10420306" _msthash="406">与表交互</li>
+<li _msttexthash="28939950" _msthash="407">导航可折叠树结构</li>
+<li _msttexthash="37980553" _msthash="408">嵌入视频和音频文件</li>
+</ul>
+</li>
+<li _msttexthash="194370566" _msthash="409">内置计时器，可每隔一段时间（甚至每 10 毫秒）刷新数据</li>
+<li _msttexthash="137403955" _msthash="410">直接的数据绑定和可刷新函数，可编写更少的代码</li>
+<li _msttexthash="119097524" _msthash="411">通知、对话框和菜单，提供最先进的用户交互</li>
+<li _msttexthash="36044125" _msthash="412">共享网页和个人网页</li>
+<li _msttexthash="62056423" _msthash="413">易于使用的每用户和一般持久性</li>
+<li _msttexthash="63540113" _msthash="414">能够添加自定义路由和数据响应</li>
+<li _msttexthash="68553680" _msthash="415">捕获全局快捷键的键盘输入等。</li>
+<li _msttexthash="117998075" _msthash="416">通过定义原色、辅助色和强调色来自定义外观</li>
+<li _msttexthash="44739344" _msthash="417">Live-Cycle 事件和会话数据</li>
+<li _msttexthash="143283907" _msthash="418">在 Jupyter Notebook 中运行，并允许 Python 的交互模式</li>
+<li _msttexthash="54764697" _msthash="419">对 Tailwind CSS 的自动完成支持</li>
+<li _msttexthash="86824010" _msthash="420">SVG、Base64 和表情符号网站图标支持</li>
+<li _msttexthash="36693982" _msthash="421">基于 pytest 的测试框架</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5773755" _msthash="422">安装</h2><a id="user-content-installation" class="anchor" aria-label="永久链接：安装" href="#installation" _mstaria-label="519259" _msthash="423"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>python3 -m pip install nicegui</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="python3 -m pip install nicegui" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5626816" _msthash="424">用法</h2><a id="user-content-usage" class="anchor" aria-label="永久链接：用法" href="#usage" _mstaria-label="270712" _msthash="425"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font _mstmutation="1" _msttexthash="68663868" _msthash="426">将您漂亮的 GUI 写在一个文件中：</font><code>main.py</code></p>
+<div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">from</span> <span class="pl-s1">nicegui</span> <span class="pl-k">import</span> <span class="pl-s1">ui</span>
 
-# NiceGUI
+<span class="pl-s1">ui</span>.<span class="pl-en">label</span>(<span class="pl-s">'Hello NiceGUI!'</span>)
+<span class="pl-s1">ui</span>.<span class="pl-en">button</span>(<span class="pl-s">'BUTTON'</span>, <span class="pl-s1">on_click</span><span class="pl-c1">=</span><span class="pl-k">lambda</span>: <span class="pl-s1">ui</span>.<span class="pl-en">notify</span>(<span class="pl-s">'button was pressed'</span>))
 
-NiceGUI is an easy-to-use, Python-based UI framework, which shows up in your web browser.
-You can create buttons, dialogs, Markdown, 3D scenes, plots and much more.
-
-It is great for micro web apps, dashboards, robotics projects, smart home solutions and similar use cases.
-You can also use it in development, for example when tweaking/configuring a machine learning algorithm or tuning motor controllers.
-
-NiceGUI is available as [PyPI package](https://pypi.org/project/nicegui/), [Docker image](https://hub.docker.com/r/zauberzeug/nicegui) and on [conda-forge](https://anaconda.org/conda-forge/nicegui) as well as [GitHub](https://github.com/zauberzeug/nicegui).
-
-[![PyPI](https://img.shields.io/pypi/v/nicegui?color=dark-green)](https://pypi.org/project/nicegui/)
-[![PyPI downloads](https://img.shields.io/pypi/dm/nicegui?color=dark-green)](https://pypi.org/project/nicegui/)
-[![Conda version](https://img.shields.io/conda/v/conda-forge/nicegui?color=green&label=conda-forge)](https://anaconda.org/conda-forge/nicegui)
-[![Conda downloads](https://img.shields.io/conda/dn/conda-forge/nicegui?color=green&label=downloads)](https://anaconda.org/conda-forge/nicegui)
-[![Docker pulls](https://img.shields.io/docker/pulls/zauberzeug/nicegui)](https://hub.docker.com/r/zauberzeug/nicegui)<br />
-[![GitHub license](https://img.shields.io/github/license/zauberzeug/nicegui?color=orange)](https://github.com/zauberzeug/nicegui/blob/main/LICENSE)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/zauberzeug/nicegui)](https://github.com/zauberzeug/nicegui/graphs/commit-activity)
-[![GitHub issues](https://img.shields.io/github/issues/zauberzeug/nicegui?color=blue)](https://github.com/zauberzeug/nicegui/issues)
-[![GitHub forks](https://img.shields.io/github/forks/zauberzeug/nicegui)](https://github.com/zauberzeug/nicegui/network)
-[![GitHub stars](https://img.shields.io/github/stars/zauberzeug/nicegui)](https://github.com/zauberzeug/nicegui/stargazers)
-
-## Features
-
-- browser-based graphical user interface
-- implicit reload on code change
-- acts as webserver (accessed by the browser) or in native mode (eg. desktop window)
-- standard GUI elements like label, button, checkbox, switch, slider, input, file upload, ...
-- simple grouping with rows, columns, cards and dialogs
-- general-purpose HTML and Markdown elements
-- powerful high-level elements to
-  - plot graphs and charts,
-  - render 3D scenes,
-  - get steering events via virtual joysticks
-  - annotate and overlay images
-  - interact with tables
-  - navigate foldable tree structures
-  - embed video and audio files
-- built-in timer to refresh data in intervals (even every 10 ms)
-- straight-forward data binding and refreshable functions to write even less code
-- notifications, dialogs and menus to provide state of the art user interaction
-- shared and individual web pages
-- easy-to-use per-user and general persistence
-- ability to add custom routes and data responses
-- capture keyboard input for global shortcuts etc.
-- customize look by defining primary, secondary and accent colors
-- live-cycle events and session data
-- runs in Jupyter Notebooks and allows Python's interactive mode
-- auto-complete support for Tailwind CSS
-- SVG, Base64 and emoji favicon support
-- testing framework based on pytest
-
-## Installation
-
-```bash
-python3 -m pip install nicegui
-```
-
-## Usage
-
-Write your nice GUI in a file `main.py`:
-
-```python
-from nicegui import ui
+<span class="pl-s1">ui</span>.<span class="pl-en">run</span>()</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="from nicegui import ui
 
 ui.label('Hello NiceGUI!')
 ui.button('BUTTON', on_click=lambda: ui.notify('button was pressed'))
 
-ui.run()
-```
-
-Launch it with:
-
-```bash
-python3 main.py
-```
-
-The GUI is now available through http://localhost:8080/ in your browser.
-Note: NiceGUI will automatically reload the page when you modify the code.
-
-## Documentation and Examples
-
-The documentation is hosted at [https://nicegui.io/documentation](https://nicegui.io/documentation) and provides plenty of live demos.
-The whole content of [https://nicegui.io](https://nicegui.io) is [implemented with NiceGUI itself](https://github.com/zauberzeug/nicegui/blob/main/main.py)
-and can be started locally with `docker run -p 8080:8080 zauberzeug/nicegui` or by executing `main.py` from this repository.
-
-You may also have a look at our [in-depth examples](https://github.com/zauberzeug/nicegui/tree/main/examples) of what you can do with NiceGUI.
-In our wiki we have a list of great [NiceGUI projects from the community](https://github.com/zauberzeug/nicegui/wiki#community-projects), a section with [Tutorials](https://github.com/zauberzeug/nicegui/wiki#tutorials), a growing list of [FAQs](https://github.com/zauberzeug/nicegui/wiki/FAQs) and [some strategies for using ChatGPT / LLMs to get help about NiceGUI](https://github.com/zauberzeug/nicegui/wiki#chatgpt).
-
-## Why?
-
-We at [Zauberzeug](https://zauberzeug.com) like [Streamlit](https://streamlit.io/)
-but find it does [too much magic](https://github.com/zauberzeug/nicegui/issues/1#issuecomment-847413651) when it comes to state handling.
-In search for an alternative nice library to write simple graphical user interfaces in Python we discovered [JustPy](https://justpy.io/).
-Although we liked the approach, it is too "low-level HTML" for our daily usage.
-But it inspired us to use [Vue](https://vuejs.org/) and [Quasar](https://quasar.dev/) for the frontend.
-
-We have built on top of [FastAPI](https://fastapi.tiangolo.com/),
-which itself is based on the ASGI framework [Starlette](https://www.starlette.io/)
-and the ASGI webserver [Uvicorn](https://www.uvicorn.org/)
-because of their great performance and ease of use.
-
-## Sponsors
-
-Maintenance of this project is made possible by all the [contributors](https://github.com/zauberzeug/nicegui/graphs/contributors) and [sponsors](https://github.com/sponsors/zauberzeug).
-If you would like to support this project and have your avatar or company logo appear below, please [sponsor us](https://github.com/sponsors/zauberzeug). 💖
-
-<p align="center">
-   <a href="https://github.com/lechler-gmbh"><img src="https://github.com/lechler-gmbh.png" width="50px" alt="Lechler GmbH" /></a>
+ui.run()" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto" _msttexthash="43646759" _msthash="427">使用以下方法启动它：</p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>python3 main.py</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="python3 main.py" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto" _msttexthash="575653767" _msthash="428">GUI 现在可通过浏览器中的 <a href="http://localhost:8080/" rel="nofollow" _istranslated="1">http://localhost:8080/</a> 使用。
+注意：当您修改代码时，NiceGUI 将自动重新加载页面。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="14623050" _msthash="429">文档和示例</h2><a id="user-content-documentation-and-examples" class="anchor" aria-label="永久链接：文档和示例" href="#documentation-and-examples" _mstaria-label="1079546" _msthash="430"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font _mstmutation="1" _msttexthash="1350504220" _msthash="431">该文档托管在 <a href="https://nicegui.io/documentation" rel="nofollow" _mstmutation="1" _istranslated="1">https://nicegui.io/documentation</a> 上，并提供了大量实时演示。
+<a href="https://nicegui.io" rel="nofollow" _mstmutation="1" _istranslated="1">https://nicegui.io</a> 的全部内容都是<a href="https://github.com/zauberzeug/nicegui/blob/main/main.py" _mstmutation="1" _istranslated="1">通过 NiceGUI 本身实现</a>的，可以使用此存储库在本地启动或执行。</font><code>docker run -p 8080:8080 zauberzeug/nicegui</code><code>main.py</code></p>
+<p dir="auto" _msttexthash="2105138776" _msthash="432">您还可以查看我们的<a href="https://github.com/zauberzeug/nicegui/tree/main/examples" _istranslated="1">深入示例</a>，了解您可以使用 NiceGUI 做什么。
+在我们的 wiki 中，我们列出了<a href="https://github.com/zauberzeug/nicegui/wiki#community-projects" _istranslated="1">来自社区的优秀 NiceGUI 项目</a>，一个包含<a href="https://github.com/zauberzeug/nicegui/wiki#tutorials" _istranslated="1">教程</a>的部分，一个不断增长的<a href="https://github.com/zauberzeug/nicegui/wiki/FAQs" _istranslated="1">常见问题解答</a>列表，以及<a href="https://github.com/zauberzeug/nicegui/wiki#chatgpt" _istranslated="1">一些使用 ChatGPT / LLM 获取有关 NiceGUI 的帮助的策略</a>。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="14754116" _msthash="433">为什么？</h2><a id="user-content-why" class="anchor" aria-label="永久链接：为什么？" href="#why" _mstaria-label="236535" _msthash="434"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="2819864437" _msthash="435">我们 <a href="https://zauberzeug.com" rel="nofollow" _istranslated="1">Zauberzeug</a> 喜欢 <a href="https://streamlit.io/" rel="nofollow" _istranslated="1">Streamlit</a>，但发现它在状态处理方面发挥<a href="https://github.com/zauberzeug/nicegui/issues/1#issuecomment-847413651" data-hovercard-type="issue" data-hovercard-url="/zauberzeug/nicegui/issues/1/hovercard" _istranslated="1">了太多的魔力</a>。
+在寻找一个替代的优秀库来用 Python 编写简单的图形用户界面时，我们发现了 <a href="https://justpy.io/" rel="nofollow" _istranslated="1">JustPy</a>。
+尽管我们喜欢这种方法，但它对于我们的日常使用来说太“低级 HTML”了。
+但它激发了我们使用 <a href="https://vuejs.org/" rel="nofollow" _istranslated="1">Vue</a> 和 <a href="https://quasar.dev/" rel="nofollow" _istranslated="1">Quasar</a> 作为前端。</p>
+<p dir="auto" _msttexthash="595301109" _msthash="436">我们构建在 <a href="https://fastapi.tiangolo.com/" rel="nofollow" _istranslated="1">FastAPI</a> 之上，
+它本身基于 ASGI 框架 <a href="https://www.starlette.io/" rel="nofollow" _istranslated="1">Starlette</a> 和 ASGI 网络服务器 <a href="https://www.uvicorn.org/" rel="nofollow" _istranslated="1">Uvicorn</a>，因为它们具有出色的性能和易用性。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="8048144" _msthash="437">赞助商</h2><a id="user-content-sponsors" class="anchor" aria-label="永久链接： 赞助商" href="#sponsors" _mstaria-label="380380" _msthash="438"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="637471588" _msthash="439">所有<a href="https://github.com/zauberzeug/nicegui/graphs/contributors" _istranslated="1">贡献者</a>和<a href="https://github.com/sponsors/zauberzeug" _istranslated="1">赞助商</a>都可以维护该项目。
+如果您想支持此项目并让您的头像或公司徽标出现在下方，请<a href="https://github.com/sponsors/zauberzeug" _istranslated="1">赞助我们</a>。💖</p>
+<p align="center" dir="auto">
+   <a href="https://github.com/lechler-gmbh"><img src="https://github.com/lechler-gmbh.png" width="50px" alt="Lechler GmbH" style="max-width: 100%;" _mstalt="163462" _msthash="440"></a>
 </p>
-
-Consider this low-barrier form of contribution yourself.
-Your [support](https://github.com/sponsors/zauberzeug) is much appreciated.
-
-## Contributing
-
-Thank you for your interest in contributing to NiceGUI! We are thrilled to have you on board and appreciate your efforts to make this project even better.
-
-As a growing open-source project, we understand that it takes a community effort to achieve our goals. That's why we welcome all kinds of contributions, no matter how small or big they are. Whether it's adding new features, fixing bugs, improving documentation, or suggesting new ideas, we believe that every contribution counts and adds value to our project.
-
-We have provided a detailed guide on how to contribute to NiceGUI in our [CONTRIBUTING.md](https://github.com/zauberzeug/nicegui/blob/main/CONTRIBUTING.md) file. We encourage you to read it carefully before making any contributions to ensure that your work aligns with the project's goals and standards.
-
-If you have any questions or need help with anything, please don't hesitate to reach out to us. We are always here to support and guide you through the contribution process.
-
-## Included Web Dependencies
-
-See [DEPENDENCIES.md](https://github.com/zauberzeug/nicegui/blob/main/DEPENDENCIES.md) for a list of web frameworks NiceGUI depends on.
+<p dir="auto" _msttexthash="177421049" _msthash="441">自己考虑一下这种低门槛的贡献形式。
+非常感谢您的<a href="https://github.com/sponsors/zauberzeug" _istranslated="1">支持</a>。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="6354283" _msthash="442">贡献</h2><a id="user-content-contributing" class="anchor" aria-label="永久链接： 贡献" href="#contributing" _mstaria-label="521066" _msthash="443"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="409665932" _msthash="444">感谢您对 NiceGUI 的贡献！我们很高兴您的加入，并感谢您为使该项目变得更好所做的努力。</p>
+<p dir="auto" _msttexthash="2453266231" _msthash="445">作为一个不断发展的开源项目，我们明白需要社区的努力才能实现我们的目标。这就是为什么我们欢迎各种贡献，无论它们有多大。无论是添加新功能、修复错误、改进文档还是提出新想法，我们相信每一项贡献都很重要，并为我们的项目增加价值。</p>
+<p dir="auto" _msttexthash="1214399095" _msthash="446">我们在 <a href="https://github.com/zauberzeug/nicegui/blob/main/CONTRIBUTING.md" _istranslated="1">CONTRIBUTING.md</a> 文件中提供了有关如何为 NiceGUI 做出贡献的详细指南。我们鼓励您在做出任何贡献之前仔细阅读它，以确保您的工作符合项目的目标和标准。</p>
+<p dir="auto" _msttexthash="466702054" _msthash="447">如果您有任何问题或需要任何帮助，请随时与我们联系。我们始终在这里支持和指导您完成贡献过程。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="25406680" _msthash="448">包含的 Web 依赖项</h2><a id="user-content-included-web-dependencies" class="anchor" aria-label="永久链接：包含的 Web 依赖项" href="#included-web-dependencies" _mstaria-label="995462" _msthash="449"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="148385432" _msthash="450">请参阅 <a href="https://github.com/zauberzeug/nicegui/blob/main/DEPENDENCIES.md" _istranslated="1">DEPENDENCIES.md</a> 获取 NiceGUI 所依赖的 Web 框架列表。</p>
+</article></div>
